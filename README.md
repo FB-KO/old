@@ -7,4 +7,4 @@ git clone https://github.com/FB-KO/old
 cd old
 
 
-python Old.py
+python FB-KO.py
